@@ -1,0 +1,43 @@
+table {
+    border-collapse:collapse;
+    margin:auto;
+    padding:20px;
+    text-align:center;
+    
+    
+}
+caption {
+    color:red;
+    
+}
+header .f {
+    background-color:black;
+    color:yellow;
+}
+header tr .fa {
+    background-color:black;
+    color:yellow;
+    
+}
+header .fahi {
+    background-color:aqua;
+}
+header .fahim {
+    background-color:darkgrey;
+}
+header .far {
+    background-color:aqua;
+}
+header .farhan {
+    background-color:darkgray
+}
+header .tan {
+    background-color: aqua;
+}
+header .tanvir {
+    background-color:darkgray;
+}
+footer {
+    text-align:center;
+    color:red;
+}
